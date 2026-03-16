@@ -13,3 +13,4 @@
 ### Data + Remove Duplicates - this removes duplicates to data
 ### Ctrl + A + Home + Find and replace + go to special + select blank = this allow us to type something like N/A to blank cells
 ### =iferror(formula,"Error") = this make sure that formula still working but it gives value when theres error as well
+### Alt + W + V + G = Remove grid lines
