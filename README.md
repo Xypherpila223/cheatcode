@@ -1,4 +1,4 @@
-# [🚲 <font color="#FF5733">CheatCodes</font>]
+# [<font color="#FF5733">CheatCodes</font>]
 
 ## Data Analytics "CheatCodes" & Workflow Optimization
 
