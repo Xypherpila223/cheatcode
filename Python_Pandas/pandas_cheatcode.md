@@ -27,7 +27,8 @@ df
 
 
 ### Header Function
-
+<p> df = pd.read_csv(r"E:\cust_table.csv", header = None, names = ["test"] )
+df </p> 
 
 this line allows us to change the header mostly if theres no header for the table
 
